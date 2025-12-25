@@ -1,0 +1,3 @@
+SELECT * FROM IMDB_IN as a
+
+
